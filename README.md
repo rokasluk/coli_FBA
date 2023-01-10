@@ -1,4 +1,4 @@
-# coli_FBA
+#   Flux balance analysis for E. coli metabolic model
 
 ## Summary
 This is a compilation of Jupyter notebook files used to perform metabolic engineering on *E. coli* MG1655 metabolic model (iJO1366) modified to perform synthesis of **beta-carotene**. The aim was to improve the production of the metabolite through gene knockout frameworks and identification of gene expression modulation targets both supplied by the [**cameo**](https://github.com/biosustain/cameo) package.
